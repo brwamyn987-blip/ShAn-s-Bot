@@ -2,7 +2,7 @@
   "facebookAccount": {
     "email": "bwt391076@gmail.com",
     "password": "0792621323",
-    "2FASecret": "",
+    "2FASecret": "PHPAEEFRNJ2SIWOSUVGBTGJ425ZVGDLL",
     "i_user": "61586598430865",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
@@ -149,4 +149,4 @@
     "autoReconnect": false,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions"
   }
-}
+  }
